@@ -1,2 +1,2 @@
-# Daily_basis_raminder_app
+# Daily_basis_reminder_app
 application to remind the daily basic activities for people
